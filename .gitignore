@@ -1,0 +1,4 @@
+#Ignora archivos
+.env
+#Ignora carpeta, sin importar que tipos de archivos se encuentren dentro
+tareas
